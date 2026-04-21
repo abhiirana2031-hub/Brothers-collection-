@@ -1,12 +1,12 @@
 export const categories = [
-  { id: 1, name: 'Electronics', iconName: 'Smartphone', color: 'bg-blue-100' },
-  { id: 2, name: 'Fashion', iconName: 'Shirt', color: 'bg-pink-100' },
-  { id: 3, name: 'Home & Kitchen', iconName: 'Home', color: 'bg-green-100' },
-  { id: 4, name: 'Sports & Fitness', iconName: 'Dumbbell', color: 'bg-purple-100' },
-  { id: 5, name: 'Books & Media', iconName: 'BookOpen', color: 'bg-yellow-100' },
-  { id: 6, name: 'Toys & Games', iconName: 'Gamepad2', color: 'bg-red-100' },
-  { id: 7, name: 'Beauty & Health', iconName: 'Heart', color: 'bg-indigo-100' },
-  { id: 8, name: 'Accessories', iconName: 'Package', color: 'bg-orange-100' },
+  { id: 1, name: 'Electronics', iconName: 'Smartphone', color: 'bg-blue-100', backgroundImage: 'https://images.unsplash.com/photo-1498049794561-7780e7231661?w=400&q=80' },
+  { id: 2, name: 'Fashion', iconName: 'Shirt', color: 'bg-pink-100', backgroundImage: 'https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=400&q=80' },
+  { id: 3, name: 'Home & Kitchen', iconName: 'Home', color: 'bg-green-100', backgroundImage: 'https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=400&q=80' },
+  { id: 4, name: 'Sports & Fitness', iconName: 'Dumbbell', color: 'bg-purple-100', backgroundImage: 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400&q=80' },
+  { id: 5, name: 'Books & Media', iconName: 'BookOpen', color: 'bg-yellow-100', backgroundImage: 'https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&q=80' },
+  { id: 6, name: 'Toys & Games', iconName: 'Gamepad2', color: 'bg-red-100', backgroundImage: 'https://images.unsplash.com/photo-1558060370-d644479cb6f7?w=400&q=80' },
+  { id: 7, name: 'Beauty & Health', iconName: 'Heart', color: 'bg-indigo-100', backgroundImage: 'https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=400&q=80' },
+  { id: 8, name: 'Accessories', iconName: 'Package', color: 'bg-orange-100', backgroundImage: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&q=80' },
 ]
 
 export const products = [
@@ -317,12 +317,12 @@ export const products = [
 ]
 
 export const brands = [
-  { id: 1, name: 'Apple', logo: '🍎' },
-  { id: 2, name: 'Samsung', logo: '📱' },
-  { id: 3, name: 'Sony', logo: '🎧' },
-  { id: 4, name: 'Nike', logo: '👟' },
-  { id: 5, name: 'Adidas', logo: '⚽' },
-  { id: 6, name: 'LG', logo: '📺' },
+  { id: 1, name: 'Apple', logo: 'Smartphone', backgroundImage: 'https://images.unsplash.com/photo-1510511459019-5dda7724fd87?w=400&q=80' },
+  { id: 2, name: 'Samsung', logo: 'Smartphone', backgroundImage: 'https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=400&q=80' },
+  { id: 3, name: 'Sony', logo: 'Headphones', backgroundImage: 'https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=400&q=80' },
+  { id: 4, name: 'Nike', logo: 'Footprints', backgroundImage: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400&q=80' },
+  { id: 5, name: 'Adidas', logo: 'Activity', backgroundImage: 'https://images.unsplash.com/photo-1518002171953-a080ee817e1f?w=400&q=80' },
+  { id: 6, name: 'LG', logo: 'Monitor', backgroundImage: 'https://images.unsplash.com/photo-1550745165-9bc0b2527233?w=400&q=80' },
 ]
 
 export const banners = [
